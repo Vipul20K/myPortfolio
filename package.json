@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://Vipul20K.github.io/Portfolio-Project",
   "scripts": {
-  "start": "vite",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
