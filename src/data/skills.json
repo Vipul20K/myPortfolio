@@ -1,5 +1,9 @@
 [
-    {
+  {
+    "title": "C++",
+    "imageSrc": "skills/c-logo.png"
+  },
+  {
       "title": "HTML",
       "imageSrc": "skills/html.png"
     },
@@ -11,18 +15,23 @@
       "title": "JavaScript",
       "imageSrc": "skills/javascript_logo.png"
     },
+   
     {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "C++",
-      "imageSrc": "skills/c-logo.png"
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
     },
- 
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Express.js",
+      "imageSrc": "skills/express-js.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
     }
+   
   ]
   
